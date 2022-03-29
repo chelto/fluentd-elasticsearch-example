@@ -1,0 +1,119 @@
+1970-01-01T00:33:42+00:00	docker.log	{"log":"Sending logs to FluentD\n","stream":"stdout"}
+1970-01-01T00:33:42+00:00	docker.log	{"log":"  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current\n","stream":"stderr"}
+1970-01-01T00:33:42+00:00	docker.log	{"log":"                                 Dload  Upload   Total   Spent    Left  Speed\n","stream":"stderr"}
+1970-01-01T00:33:42+00:00	docker.log	{"log":"\r  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0\r100    18    0     0  100    18      0  11531 --:--:-- --:--:-- --:--:-- 18000\n","stream":"stderr"}
+1970-01-01T00:33:42+00:00	docker.log	{"log":"Sending logs to FluentD\n","stream":"stdout"}
+1970-01-01T00:33:42+00:00	docker.log	{"log":"  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current\n","stream":"stderr"}
+1970-01-01T00:33:42+00:00	docker.log	{"log":"                                 Dload  Upload   Total   Spent    Left  Speed\n","stream":"stderr"}
+1970-01-01T00:33:42+00:00	docker.log	{"log":"\r  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0\r100    18    0     0  100    18      0  12236 --:--:-- --:--:-- --:--:-- 18000\n","stream":"stderr"}
+1970-01-01T00:33:42+00:00	docker.log	{"log":"writing file\n","stream":"stdout"}
+1970-01-01T00:33:42+00:00	docker.log	{"log":"Sending logs to FluentD\n","stream":"stdout"}
+1970-01-01T00:33:42+00:00	docker.log	{"log":"  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current\n","stream":"stderr"}
+1970-01-01T00:33:42+00:00	docker.log	{"log":"                                 Dload  Upload   Total   Spent    Left  Speed\n","stream":"stderr"}
+1970-01-01T00:33:42+00:00	docker.log	{"log":"\r  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0\r100    18    0     0  100    18      0  10588 --:--:-- --:--:-- --:--:-- 18000\n","stream":"stderr"}
+1970-01-01T00:33:42+00:00	docker.log	{"log":"Sending logs to FluentD\n","stream":"stdout"}
+1970-01-01T00:33:42+00:00	docker.log	{"log":"  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current\n","stream":"stderr"}
+1970-01-01T00:33:42+00:00	docker.log	{"log":"                                 Dload  Upload   Total   Spent    Left  Speed\n","stream":"stderr"}
+1970-01-01T00:33:42+00:00	docker.log	{"log":"\r  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0\r100    18    0     0  100    18      0   8780 --:--:-- --:--:-- --:--:-- 18000\n","stream":"stderr"}
+1970-01-01T00:33:42+00:00	docker.log	{"log":"writing file\n","stream":"stdout"}
+1970-01-01T00:33:42+00:00	docker.log	{"log":"Sending logs to FluentD\n","stream":"stdout"}
+1970-01-01T00:33:42+00:00	docker.log	{"log":"  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current\n","stream":"stderr"}
+1970-01-01T00:33:42+00:00	docker.log	{"log":"                                 Dload  Upload   Total   Spent    Left  Speed\n","stream":"stderr"}
+1970-01-01T00:33:42+00:00	docker.log	{"log":"\r  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0\r100    18    0     0  100    18      0  12129 --:--:-- --:--:-- --:--:-- 18000\n","stream":"stderr"}
+1970-01-01T00:33:42+00:00	docker.log	{"log":"Sending logs to FluentD\n","stream":"stdout"}
+1970-01-01T00:33:42+00:00	docker.log	{"log":"  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current\n","stream":"stderr"}
+1970-01-01T00:33:42+00:00	docker.log	{"log":"                                 Dload  Upload   Total   Spent    Left  Speed\n","stream":"stderr"}
+1970-01-01T00:33:42+00:00	docker.log	{"log":"\r  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0\r100    18    0     0  100    18      0  12064 --:--:-- --:--:-- --:--:-- 18000\n","stream":"stderr"}
+1970-01-01T00:33:42+00:00	docker.log	{"log":"Sending logs to FluentD\n","stream":"stdout"}
+1970-01-01T00:33:42+00:00	docker.log	{"log":"  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current\n","stream":"stderr"}
+1970-01-01T00:33:42+00:00	docker.log	{"log":"                                 Dload  Upload   Total   Spent    Left  Speed\n","stream":"stderr"}
+1970-01-01T00:33:42+00:00	docker.log	{"log":"\r  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0\r100    18    0     0  100    18      0  10238 --:--:-- --:--:-- --:--:-- 18000\n","stream":"stderr"}
+1970-01-01T00:33:42+00:00	docker.log	{"log":"writing file\n","stream":"stdout"}
+1970-01-01T00:33:42+00:00	docker.log	{"log":"Sending logs to FluentD\n","stream":"stdout"}
+1970-01-01T00:33:42+00:00	docker.log	{"log":"  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current\n","stream":"stderr"}
+1970-01-01T00:33:42+00:00	docker.log	{"log":"                                 Dload  Upload   Total   Spent    Left  Speed\n","stream":"stderr"}
+1970-01-01T00:33:42+00:00	docker.log	{"log":"\r  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0\r100    18    0     0  100    18      0  11764 --:--:-- --:--:-- --:--:-- 18000\n","stream":"stderr"}
+1970-01-01T00:33:42+00:00	docker.log	{"log":"Sending logs to FluentD\n","stream":"stdout"}
+1970-01-01T00:33:42+00:00	docker.log	{"log":"  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current\n","stream":"stderr"}
+1970-01-01T00:33:42+00:00	docker.log	{"log":"                                 Dload  Upload   Total   Spent    Left  Speed\n","stream":"stderr"}
+1970-01-01T00:33:42+00:00	docker.log	{"log":"\r  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0\r100    18    0     0  100    18      0  11194 --:--:-- --:--:-- --:--:-- 18000\n","stream":"stderr"}
+1970-01-01T00:33:42+00:00	docker.log	{"log":"writing file\n","stream":"stdout"}
+1970-01-01T00:33:42+00:00	docker.log	{"log":"Sending logs to FluentD\n","stream":"stdout"}
+1970-01-01T00:33:42+00:00	docker.log	{"log":"  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current\n","stream":"stderr"}
+1970-01-01T00:33:42+00:00	docker.log	{"log":"                                 Dload  Upload   Total   Spent    Left  Speed\n","stream":"stderr"}
+1970-01-01T00:33:42+00:00	docker.log	{"log":"\r  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0\r100    18    0     0  100    18      0  12422 --:--:-- --:--:-- --:--:-- 18000\n","stream":"stderr"}
+1970-01-01T00:33:42+00:00	docker.log	{"log":"Sending logs to FluentD\n","stream":"stdout"}
+1970-01-01T00:33:42+00:00	docker.log	{"log":"  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current\n","stream":"stderr"}
+1970-01-01T00:33:42+00:00	docker.log	{"log":"                                 Dload  Upload   Total   Spent    Left  Speed\n","stream":"stderr"}
+1970-01-01T00:33:42+00:00	docker.log	{"log":"\r  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0\r100    18    0     0  100    18      0  12543 --:--:-- --:--:-- --:--:-- 18000\n","stream":"stderr"}
+1970-01-01T00:33:42+00:00	docker.log	{"log":"Sending logs to FluentD\n","stream":"stdout"}
+1970-01-01T00:33:42+00:00	docker.log	{"log":"  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current\n","stream":"stderr"}
+1970-01-01T00:33:42+00:00	docker.log	{"log":"                                 Dload  Upload   Total   Spent    Left  Speed\n","stream":"stderr"}
+1970-01-01T00:33:42+00:00	docker.log	{"log":"\r  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0\r100    18    0     0  100    18      0  11928 --:--:-- --:--:-- --:--:-- 18000\n","stream":"stderr"}
+1970-01-01T00:33:42+00:00	docker.log	{"log":"writing file\n","stream":"stdout"}
+1970-01-01T00:33:42+00:00	docker.log	{"log":"Sending logs to FluentD\n","stream":"stdout"}
+1970-01-01T00:33:42+00:00	docker.log	{"log":"  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current\n","stream":"stderr"}
+1970-01-01T00:33:42+00:00	docker.log	{"log":"                                 Dload  Upload   Total   Spent    Left  Speed\n","stream":"stderr"}
+1970-01-01T00:33:42+00:00	docker.log	{"log":"\r  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0\r100    18    0     0  100    18      0  12337 --:--:-- --:--:-- --:--:-- 18000\n","stream":"stderr"}
+1970-01-01T00:33:42+00:00	docker.log	{"log":"Sending logs to FluentD\n","stream":"stdout"}
+1970-01-01T00:33:42+00:00	docker.log	{"log":"  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current\n","stream":"stderr"}
+1970-01-01T00:33:42+00:00	docker.log	{"log":"                                 Dload  Upload   Total   Spent    Left  Speed\n","stream":"stderr"}
+1970-01-01T00:33:42+00:00	docker.log	{"log":"\r  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0\r100    18    0     0  100    18      0  11673 --:--:-- --:--:-- --:--:-- 18000\n","stream":"stderr"}
+1970-01-01T00:33:42+00:00	docker.log	{"log":"writing file\n","stream":"stdout"}
+1970-01-01T00:33:42+00:00	docker.log	{"log":"Sending logs to FluentD\n","stream":"stdout"}
+1970-01-01T00:33:42+00:00	docker.log	{"log":"  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current\n","stream":"stderr"}
+1970-01-01T00:33:42+00:00	docker.log	{"log":"                                 Dload  Upload   Total   Spent    Left  Speed\n","stream":"stderr"}
+1970-01-01T00:33:42+00:00	docker.log	{"log":"\r  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0\r100    18    0     0  100    18      0  11042 --:--:-- --:--:-- --:--:-- 18000\n","stream":"stderr"}
+1970-01-01T00:33:42+00:00	docker.log	{"log":"Sending logs to FluentD\n","stream":"stdout"}
+1970-01-01T00:33:42+00:00	docker.log	{"log":"  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current\n","stream":"stderr"}
+1970-01-01T00:33:42+00:00	docker.log	{"log":"                                 Dload  Upload   Total   Spent    Left  Speed\n","stream":"stderr"}
+1970-01-01T00:33:42+00:00	docker.log	{"log":"\r  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0\r100    18    0     0  100    18      0  11992 --:--:-- --:--:-- --:--:-- 18000\n","stream":"stderr"}
+1970-01-01T00:33:42+00:00	docker.log	{"log":"Sending logs to FluentD\n","stream":"stdout"}
+1970-01-01T00:33:42+00:00	docker.log	{"log":"  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current\n","stream":"stderr"}
+1970-01-01T00:33:42+00:00	docker.log	{"log":"                                 Dload  Upload   Total   Spent    Left  Speed\n","stream":"stderr"}
+1970-01-01T00:33:42+00:00	docker.log	{"log":"\r  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0\r100    18    0     0  100    18      0  11711 --:--:-- --:--:-- --:--:-- 18000\n","stream":"stderr"}
+1970-01-01T00:33:42+00:00	docker.log	{"log":"writing file\n","stream":"stdout"}
+1970-01-01T00:33:42+00:00	docker.log	{"log":"Sending logs to FluentD\n","stream":"stdout"}
+1970-01-01T00:33:42+00:00	docker.log	{"log":"  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current\n","stream":"stderr"}
+1970-01-01T00:33:42+00:00	docker.log	{"log":"                                 Dload  Upload   Total   Spent    Left  Speed\n","stream":"stderr"}
+1970-01-01T00:33:42+00:00	docker.log	{"log":"\r  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0\r100    18    0     0  100    18      0  12211 --:--:-- --:--:-- --:--:-- 18000\n","stream":"stderr"}
+1970-01-01T00:33:42+00:00	docker.log	{"log":"Sending logs to FluentD\n","stream":"stdout"}
+1970-01-01T00:33:42+00:00	docker.log	{"log":"  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current\n","stream":"stderr"}
+1970-01-01T00:33:42+00:00	docker.log	{"log":"                                 Dload  Upload   Total   Spent    Left  Speed\n","stream":"stderr"}
+1970-01-01T00:33:42+00:00	docker.log	{"log":"\r  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0\r100    18    0     0  100    18      0  11200 --:--:-- --:--:-- --:--:-- 18000\n","stream":"stderr"}
+1970-01-01T00:33:42+00:00	docker.log	{"log":"writing file\n","stream":"stdout"}
+1970-01-01T00:33:42+00:00	docker.log	{"log":"Sending logs to FluentD\n","stream":"stdout"}
+1970-01-01T00:33:42+00:00	docker.log	{"log":"  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current\n","stream":"stderr"}
+1970-01-01T00:33:42+00:00	docker.log	{"log":"                                 Dload  Upload   Total   Spent    Left  Speed\n","stream":"stderr"}
+1970-01-01T00:33:42+00:00	docker.log	{"log":"\r  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0\r100    18    0     0  100    18      0  11568 --:--:-- --:--:-- --:--:-- 18000\n","stream":"stderr"}
+1970-01-01T00:33:42+00:00	docker.log	{"log":"Sending logs to FluentD\n","stream":"stdout"}
+1970-01-01T00:33:42+00:00	docker.log	{"log":"  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current\n","stream":"stderr"}
+1970-01-01T00:33:42+00:00	docker.log	{"log":"                                 Dload  Upload   Total   Spent    Left  Speed\n","stream":"stderr"}
+1970-01-01T00:33:42+00:00	docker.log	{"log":"\r  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0\r100    18    0     0  100    18      0  11757 --:--:-- --:--:-- --:--:-- 18000\n","stream":"stderr"}
+1970-01-01T00:33:42+00:00	docker.log	{"log":"Sending logs to FluentD\n","stream":"stdout"}
+1970-01-01T00:33:42+00:00	docker.log	{"log":"  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current\n","stream":"stderr"}
+1970-01-01T00:33:42+00:00	docker.log	{"log":"                                 Dload  Upload   Total   Spent    Left  Speed\n","stream":"stderr"}
+1970-01-01T00:33:42+00:00	docker.log	{"log":"\r  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0\r100    18    0     0  100    18      0  11320 --:--:-- --:--:-- --:--:-- 18000\n","stream":"stderr"}
+1970-01-01T00:33:42+00:00	docker.log	{"log":"writing file\n","stream":"stdout"}
+1970-01-01T00:33:42+00:00	docker.log	{"log":"Sending logs to FluentD\n","stream":"stdout"}
+1970-01-01T00:33:42+00:00	docker.log	{"log":"  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current\n","stream":"stderr"}
+1970-01-01T00:33:42+00:00	docker.log	{"log":"                                 Dload  Upload   Total   Spent    Left  Speed\n","stream":"stderr"}
+1970-01-01T00:33:42+00:00	docker.log	{"log":"\r  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0\r100    18    0     0  100    18      0  11597 --:--:-- --:--:-- --:--:-- 18000\n","stream":"stderr"}
+1970-01-01T00:33:42+00:00	docker.log	{"log":"Sending logs to FluentD\n","stream":"stdout"}
+1970-01-01T00:33:42+00:00	docker.log	{"log":"  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current\n","stream":"stderr"}
+1970-01-01T00:33:42+00:00	docker.log	{"log":"                                 Dload  Upload   Total   Spent    Left  Speed\n","stream":"stderr"}
+1970-01-01T00:33:42+00:00	docker.log	{"log":"\r  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0\r100    18    0     0  100    18      0  11976 --:--:-- --:--:-- --:--:-- 18000\n","stream":"stderr"}
+1970-01-01T00:33:42+00:00	docker.log	{"log":"writing file\n","stream":"stdout"}
+1970-01-01T00:33:42+00:00	docker.log	{"log":"Sending logs to FluentD\n","stream":"stdout"}
+1970-01-01T00:33:42+00:00	docker.log	{"log":"  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current\n","stream":"stderr"}
+1970-01-01T00:33:42+00:00	docker.log	{"log":"                                 Dload  Upload   Total   Spent    Left  Speed\n","stream":"stderr"}
+1970-01-01T00:33:42+00:00	docker.log	{"log":"\r  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0\r100    18    0     0  100    18      0  11881 --:--:-- --:--:-- --:--:-- 18000\n","stream":"stderr"}
+1970-01-01T00:33:42+00:00	docker.log	{"log":"Sending logs to FluentD\n","stream":"stdout"}
+1970-01-01T00:33:42+00:00	docker.log	{"log":"  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current\n","stream":"stderr"}
+1970-01-01T00:33:42+00:00	docker.log	{"log":"                                 Dload  Upload   Total   Spent    Left  Speed\n","stream":"stderr"}
+1970-01-01T00:33:42+00:00	docker.log	{"log":"\r  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0\r100    18    0     0  100    18      0  11313 --:--:-- --:--:-- --:--:-- 18000\n","stream":"stderr"}
+1970-01-01T00:33:42+00:00	docker.log	{"log":"Sending logs to FluentD\n","stream":"stdout"}
+1970-01-01T00:33:42+00:00	docker.log	{"log":"  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current\n","stream":"stderr"}
+1970-01-01T00:33:42+00:00	docker.log	{"log":"                                 Dload  Upload   Total   Spent    Left  Speed\n","stream":"stderr"}
+1970-01-01T00:33:42+00:00	docker.log	{"log":"\r  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0\r100    18    0     0  100    18      0  11992 --:--:-- --:--:-- --:--:-- 18000\n","stream":"stderr"}
+1970-01-01T00:33:42+00:00	docker.log	{"log":"writing file\n","stream":"stdout"}

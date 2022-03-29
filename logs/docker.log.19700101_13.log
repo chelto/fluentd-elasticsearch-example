@@ -1,0 +1,123 @@
+1970-01-01T00:33:42+00:00	docker.log	{"log":"Sending logs to FluentD\n","stream":"stdout","host_param":"c139c4a70a31"}
+1970-01-01T00:33:42+00:00	docker.log	{"log":"  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current\n","stream":"stderr","host_param":"c139c4a70a31"}
+1970-01-01T00:33:42+00:00	docker.log	{"log":"                                 Dload  Upload   Total   Spent    Left  Speed\n","stream":"stderr","host_param":"c139c4a70a31"}
+1970-01-01T00:33:42+00:00	docker.log	{"log":"\r  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0\r100    18    0     0  100    18      0  11865 --:--:-- --:--:-- --:--:-- 18000\n","stream":"stderr","host_param":"c139c4a70a31"}
+1970-01-01T00:33:42+00:00	docker.log	{"log":"Sending logs to FluentD\n","stream":"stdout","host_param":"c139c4a70a31"}
+1970-01-01T00:33:42+00:00	docker.log	{"log":"  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current\n","stream":"stderr","host_param":"c139c4a70a31"}
+1970-01-01T00:33:42+00:00	docker.log	{"log":"                                 Dload  Upload   Total   Spent    Left  Speed\n","stream":"stderr","host_param":"c139c4a70a31"}
+1970-01-01T00:33:42+00:00	docker.log	{"log":"\r  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0\r100    18    0     0  100    18      0   9109 --:--:-- --:--:-- --:--:-- 18000\n","stream":"stderr","host_param":"c139c4a70a31"}
+1970-01-01T00:33:42+00:00	docker.log	{"log":"writing file\n","stream":"stdout","host_param":"c139c4a70a31"}
+1970-01-01T00:33:42+00:00	docker.log	{"log":"Sending logs to FluentD\n","stream":"stdout","host_param":"c139c4a70a31"}
+1970-01-01T00:33:42+00:00	docker.log	{"log":"  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current\n","stream":"stderr","host_param":"c139c4a70a31"}
+1970-01-01T00:33:42+00:00	docker.log	{"log":"                                 Dload  Upload   Total   Spent    Left  Speed\n","stream":"stderr","host_param":"c139c4a70a31"}
+1970-01-01T00:33:42+00:00	docker.log	{"log":"\r  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0\r100    18    0     0  100    18      0   9503 --:--:-- --:--:-- --:--:-- 18000\n","stream":"stderr","host_param":"c139c4a70a31"}
+1970-01-01T00:33:42+00:00	docker.log	{"log":"Sending logs to FluentD\n","stream":"stdout","host_param":"c139c4a70a31"}
+1970-01-01T00:33:42+00:00	docker.log	{"log":"  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current\n","stream":"stderr","host_param":"c139c4a70a31"}
+1970-01-01T00:33:42+00:00	docker.log	{"log":"                                 Dload  Upload   Total   Spent    Left  Speed\n","stream":"stderr","host_param":"c139c4a70a31"}
+1970-01-01T00:33:42+00:00	docker.log	{"log":"\r  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0\r100    18    0     0  100    18      0  11612 --:--:-- --:--:-- --:--:-- 18000\n","stream":"stderr","host_param":"c139c4a70a31"}
+1970-01-01T00:33:42+00:00	docker.log	{"log":"Sending logs to FluentD\n","stream":"stdout","host_param":"c139c4a70a31"}
+1970-01-01T00:33:42+00:00	docker.log	{"log":"  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current\n","stream":"stderr","host_param":"c139c4a70a31"}
+1970-01-01T00:33:42+00:00	docker.log	{"log":"                                 Dload  Upload   Total   Spent    Left  Speed\n","stream":"stderr","host_param":"c139c4a70a31"}
+1970-01-01T00:33:42+00:00	docker.log	{"log":"\r  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0\r100    18    0     0  100    18      0  11370 --:--:-- --:--:-- --:--:-- 18000\n","stream":"stderr","host_param":"c139c4a70a31"}
+1970-01-01T00:33:42+00:00	docker.log	{"log":"writing file\n","stream":"stdout","host_param":"c139c4a70a31"}
+1970-01-01T00:33:42+00:00	docker.log	{"log":"Sending logs to FluentD\n","stream":"stdout","host_param":"c139c4a70a31"}
+1970-01-01T00:33:42+00:00	docker.log	{"log":"  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current\n","stream":"stderr","host_param":"c139c4a70a31"}
+1970-01-01T00:33:42+00:00	docker.log	{"log":"                                 Dload  Upload   Total   Spent    Left  Speed\n","stream":"stderr","host_param":"c139c4a70a31"}
+1970-01-01T00:33:42+00:00	docker.log	{"log":"\r  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0\r100    18    0     0  100    18      0  11734 --:--:-- --:--:-- --:--:-- 18000\n","stream":"stderr","host_param":"c139c4a70a31"}
+1970-01-01T00:33:42+00:00	docker.log	{"log":"Sending logs to FluentD\n","stream":"stdout","host_param":"c139c4a70a31"}
+1970-01-01T00:33:42+00:00	docker.log	{"log":"  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current\n","stream":"stderr","host_param":"c139c4a70a31"}
+1970-01-01T00:33:42+00:00	docker.log	{"log":"                                 Dload  Upload   Total   Spent    Left  Speed\n","stream":"stderr","host_param":"c139c4a70a31"}
+1970-01-01T00:33:42+00:00	docker.log	{"log":"\r  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0\r100    18    0     0  100    18      0  11399 --:--:-- --:--:-- --:--:-- 18000\n","stream":"stderr","host_param":"c139c4a70a31"}
+1970-01-01T00:33:42+00:00	docker.log	{"log":"writing file\n","stream":"stdout","host_param":"c139c4a70a31"}
+1970-01-01T00:33:42+00:00	docker.log	{"log":"Sending logs to FluentD\n","stream":"stdout","host_param":"c139c4a70a31"}
+1970-01-01T00:33:42+00:00	docker.log	{"log":"  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current\n","stream":"stderr","host_param":"c139c4a70a31"}
+1970-01-01T00:33:42+00:00	docker.log	{"log":"                                 Dload  Upload   Total   Spent    Left  Speed\n","stream":"stderr","host_param":"c139c4a70a31"}
+1970-01-01T00:33:42+00:00	docker.log	{"log":"\r  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0\r100    18    0     0  100    18      0  11896 --:--:-- --:--:-- --:--:-- 18000\n","stream":"stderr","host_param":"c139c4a70a31"}
+1970-01-01T00:33:42+00:00	docker.log	{"log":"Sending logs to FluentD\n","stream":"stdout","host_param":"c139c4a70a31"}
+1970-01-01T00:33:42+00:00	docker.log	{"log":"  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current\n","stream":"stderr","host_param":"c139c4a70a31"}
+1970-01-01T00:33:42+00:00	docker.log	{"log":"                                 Dload  Upload   Total   Spent    Left  Speed\n","stream":"stderr","host_param":"c139c4a70a31"}
+1970-01-01T00:33:42+00:00	docker.log	{"log":"\r  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0\r100    18    0     0  100    18      0  10362 --:--:-- --:--:-- --:--:-- 18000\n","stream":"stderr","host_param":"c139c4a70a31"}
+1970-01-01T00:33:42+00:00	docker.log	{"log":"writing file\n","stream":"stdout","host_param":"c139c4a70a31"}
+1970-01-01T00:33:42+00:00	docker.log	{"log":"Sending logs to FluentD\n","stream":"stdout","host_param":"c139c4a70a31"}
+1970-01-01T00:33:42+00:00	docker.log	{"log":"  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current\n","stream":"stderr","host_param":"c139c4a70a31"}
+1970-01-01T00:33:42+00:00	docker.log	{"log":"                                 Dload  Upload   Total   Spent    Left  Speed\n","stream":"stderr","host_param":"c139c4a70a31"}
+1970-01-01T00:33:42+00:00	docker.log	{"log":"\r  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0\r100    18    0     0  100    18      0  11264 --:--:-- --:--:-- --:--:-- 18000\n","stream":"stderr","host_param":"c139c4a70a31"}
+1970-01-01T00:33:42+00:00	docker.log	{"log":"Sending logs to FluentD\n","stream":"stdout","host_param":"c139c4a70a31"}
+1970-01-01T00:33:42+00:00	docker.log	{"log":"  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current\n","stream":"stderr","host_param":"c139c4a70a31"}
+1970-01-01T00:33:42+00:00	docker.log	{"log":"                                 Dload  Upload   Total   Spent    Left  Speed\n","stream":"stderr","host_param":"c139c4a70a31"}
+1970-01-01T00:33:42+00:00	docker.log	{"log":"\r  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0\r100    18    0     0  100    18      0  10714 --:--:-- --:--:-- --:--:-- 18000\n","stream":"stderr","host_param":"c139c4a70a31"}
+1970-01-01T00:33:42+00:00	docker.log	{"log":"Sending logs to FluentD\n","stream":"stdout","host_param":"c139c4a70a31"}
+1970-01-01T00:33:42+00:00	docker.log	{"log":"  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current\n","stream":"stderr","host_param":"c139c4a70a31"}
+1970-01-01T00:33:42+00:00	docker.log	{"log":"                                 Dload  Upload   Total   Spent    Left  Speed\n","stream":"stderr","host_param":"c139c4a70a31"}
+1970-01-01T00:33:42+00:00	docker.log	{"log":"\r  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0\r100    18    0     0  100    18      0  11450 --:--:-- --:--:-- --:--:-- 18000\n","stream":"stderr","host_param":"c139c4a70a31"}
+1970-01-01T00:33:42+00:00	docker.log	{"log":"writing file\n","stream":"stdout","host_param":"c139c4a70a31"}
+1970-01-01T00:33:42+00:00	docker.log	{"log":"Sending logs to FluentD\n","stream":"stdout","host_param":"c139c4a70a31"}
+1970-01-01T00:33:42+00:00	docker.log	{"log":"  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current\n","stream":"stderr","host_param":"c139c4a70a31"}
+1970-01-01T00:33:42+00:00	docker.log	{"log":"                                 Dload  Upload   Total   Spent    Left  Speed\n","stream":"stderr","host_param":"c139c4a70a31"}
+1970-01-01T00:33:42+00:00	docker.log	{"log":"\r  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0\r100    18    0     0  100    18      0  12396 --:--:-- --:--:-- --:--:-- 18000\n","stream":"stderr","host_param":"c139c4a70a31"}
+1970-01-01T00:33:42+00:00	docker.log	{"log":"Sending logs to FluentD\n","stream":"stdout","host_param":"c139c4a70a31"}
+1970-01-01T00:33:42+00:00	docker.log	{"log":"  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current\n","stream":"stderr","host_param":"c139c4a70a31"}
+1970-01-01T00:33:42+00:00	docker.log	{"log":"                                 Dload  Upload   Total   Spent    Left  Speed\n","stream":"stderr","host_param":"c139c4a70a31"}
+1970-01-01T00:33:42+00:00	docker.log	{"log":"\r  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0\r100    18    0     0  100    18      0  10619 --:--:-- --:--:-- --:--:-- 18000\n","stream":"stderr","host_param":"c139c4a70a31"}
+1970-01-01T00:33:42+00:00	docker.log	{"log":"writing file\n","stream":"stdout","host_param":"c139c4a70a31"}
+1970-01-01T00:33:42+00:00	docker.log	{"log":"Sending logs to FluentD\n","stream":"stdout","host_param":"c139c4a70a31"}
+1970-01-01T00:33:42+00:00	docker.log	{"log":"  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current\n","stream":"stderr","host_param":"c139c4a70a31"}
+1970-01-01T00:33:42+00:00	docker.log	{"log":"                                 Dload  Upload   Total   Spent    Left  Speed\n","stream":"stderr","host_param":"c139c4a70a31"}
+1970-01-01T00:33:42+00:00	docker.log	{"log":"\r  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0\r100    18    0     0  100    18      0  12129 --:--:-- --:--:-- --:--:-- 18000\n","stream":"stderr","host_param":"c139c4a70a31"}
+1970-01-01T00:33:42+00:00	docker.log	{"log":"Sending logs to FluentD\n","stream":"stdout","host_param":"c139c4a70a31"}
+1970-01-01T00:33:42+00:00	docker.log	{"log":"  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current\n","stream":"stderr","host_param":"c139c4a70a31"}
+1970-01-01T00:33:42+00:00	docker.log	{"log":"                                 Dload  Upload   Total   Spent    Left  Speed\n","stream":"stderr","host_param":"c139c4a70a31"}
+1970-01-01T00:33:42+00:00	docker.log	{"log":"\r  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0\r100    18    0     0  100    18      0  11335 --:--:-- --:--:-- --:--:-- 18000\n","stream":"stderr","host_param":"c139c4a70a31"}
+1970-01-01T00:33:42+00:00	docker.log	{"log":"Sending logs to FluentD\n","stream":"stdout","host_param":"c139c4a70a31"}
+1970-01-01T00:33:42+00:00	docker.log	{"log":"  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current\n","stream":"stderr","host_param":"c139c4a70a31"}
+1970-01-01T00:33:42+00:00	docker.log	{"log":"                                 Dload  Upload   Total   Spent    Left  Speed\n","stream":"stderr","host_param":"c139c4a70a31"}
+1970-01-01T00:33:42+00:00	docker.log	{"log":"\r  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0\r100    18    0     0  100    18      0  11620 --:--:-- --:--:-- --:--:-- 18000\n","stream":"stderr","host_param":"c139c4a70a31"}
+1970-01-01T00:33:42+00:00	docker.log	{"log":"writing file\n","stream":"stdout","host_param":"c139c4a70a31"}
+1970-01-01T00:33:42+00:00	docker.log	{"log":"Sending logs to FluentD\n","stream":"stdout","host_param":"c139c4a70a31"}
+1970-01-01T00:33:42+00:00	docker.log	{"log":"  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current\n","stream":"stderr","host_param":"c139c4a70a31"}
+1970-01-01T00:33:42+00:00	docker.log	{"log":"                                 Dload  Upload   Total   Spent    Left  Speed\n","stream":"stderr","host_param":"c139c4a70a31"}
+1970-01-01T00:33:42+00:00	docker.log	{"log":"\r  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0\r100    18    0     0  100    18      0  10215 --:--:-- --:--:-- --:--:-- 18000\n","stream":"stderr","host_param":"c139c4a70a31"}
+1970-01-01T00:33:42+00:00	docker.log	{"log":"Sending logs to FluentD\n","stream":"stdout","host_param":"c139c4a70a31"}
+1970-01-01T00:33:42+00:00	docker.log	{"log":"  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current\n","stream":"stderr","host_param":"c139c4a70a31"}
+1970-01-01T00:33:42+00:00	docker.log	{"log":"                                 Dload  Upload   Total   Spent    Left  Speed\n","stream":"stderr","host_param":"c139c4a70a31"}
+1970-01-01T00:33:42+00:00	docker.log	{"log":"\r  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0\r100    18    0     0  100    18      0  11523 --:--:-- --:--:-- --:--:-- 18000\n","stream":"stderr","host_param":"c139c4a70a31"}
+1970-01-01T00:33:42+00:00	docker.log	{"log":"writing file\n","stream":"stdout","host_param":"c139c4a70a31"}
+1970-01-01T00:33:42+00:00	docker.log	{"log":"Sending logs to FluentD\n","stream":"stdout","host_param":"c139c4a70a31"}
+1970-01-01T00:33:42+00:00	docker.log	{"log":"  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current\n","stream":"stderr","host_param":"c139c4a70a31"}
+1970-01-01T00:33:42+00:00	docker.log	{"log":"                                 Dload  Upload   Total   Spent    Left  Speed\n","stream":"stderr","host_param":"c139c4a70a31"}
+1970-01-01T00:33:42+00:00	docker.log	{"log":"\r  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0\r100    18    0     0  100    18      0  10550 --:--:-- --:--:-- --:--:-- 18000\n","stream":"stderr","host_param":"c139c4a70a31"}
+1970-01-01T00:33:42+00:00	docker.log	{"log":"Sending logs to FluentD\n","stream":"stdout","host_param":"c139c4a70a31"}
+1970-01-01T00:33:42+00:00	docker.log	{"log":"  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current\n","stream":"stderr","host_param":"c139c4a70a31"}
+1970-01-01T00:33:42+00:00	docker.log	{"log":"                                 Dload  Upload   Total   Spent    Left  Speed\n","stream":"stderr","host_param":"c139c4a70a31"}
+1970-01-01T00:33:42+00:00	docker.log	{"log":"\r  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0\r100    18    0     0  100    18      0  12474 --:--:-- --:--:-- --:--:-- 18000\n","stream":"stderr","host_param":"c139c4a70a31"}
+1970-01-01T00:33:42+00:00	docker.log	{"log":"Sending logs to FluentD\n","stream":"stdout","host_param":"c139c4a70a31"}
+1970-01-01T00:33:42+00:00	docker.log	{"log":"  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current\n","stream":"stderr","host_param":"c139c4a70a31"}
+1970-01-01T00:33:42+00:00	docker.log	{"log":"                                 Dload  Upload   Total   Spent    Left  Speed\n","stream":"stderr","host_param":"c139c4a70a31"}
+1970-01-01T00:33:42+00:00	docker.log	{"log":"\r  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0\r100    18    0     0  100    18      0  11695 --:--:-- --:--:-- --:--:-- 18000\n","stream":"stderr","host_param":"c139c4a70a31"}
+1970-01-01T00:33:42+00:00	docker.log	{"log":"writing file\n","stream":"stdout","host_param":"c139c4a70a31"}
+1970-01-01T00:33:42+00:00	docker.log	{"log":"Sending logs to FluentD\n","stream":"stdout","host_param":"c139c4a70a31"}
+1970-01-01T00:33:42+00:00	docker.log	{"log":"  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current\n","stream":"stderr","host_param":"c139c4a70a31"}
+1970-01-01T00:33:42+00:00	docker.log	{"log":"                                 Dload  Upload   Total   Spent    Left  Speed\n","stream":"stderr","host_param":"c139c4a70a31"}
+1970-01-01T00:33:42+00:00	docker.log	{"log":"\r  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0\r100    18    0     0  100    18      0  11680 --:--:-- --:--:-- --:--:-- 18000\n","stream":"stderr","host_param":"c139c4a70a31"}
+1970-01-01T00:33:42+00:00	docker.log	{"log":"Sending logs to FluentD\n","stream":"stdout","host_param":"c139c4a70a31"}
+1970-01-01T00:33:42+00:00	docker.log	{"log":"  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current\n","stream":"stderr","host_param":"c139c4a70a31"}
+1970-01-01T00:33:42+00:00	docker.log	{"log":"                                 Dload  Upload   Total   Spent    Left  Speed\n","stream":"stderr","host_param":"c139c4a70a31"}
+1970-01-01T00:33:42+00:00	docker.log	{"log":"\r  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0\r100    18    0     0  100    18      0  11200 --:--:-- --:--:-- --:--:-- 18000\n","stream":"stderr","host_param":"c139c4a70a31"}
+1970-01-01T00:33:42+00:00	docker.log	{"log":"writing file\n","stream":"stdout","host_param":"c139c4a70a31"}
+1970-01-01T00:33:42+00:00	docker.log	{"log":"Sending logs to FluentD\n","stream":"stdout","host_param":"c139c4a70a31"}
+1970-01-01T00:33:42+00:00	docker.log	{"log":"  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current\n","stream":"stderr","host_param":"c139c4a70a31"}
+1970-01-01T00:33:42+00:00	docker.log	{"log":"                                 Dload  Upload   Total   Spent    Left  Speed\n","stream":"stderr","host_param":"c139c4a70a31"}
+1970-01-01T00:33:42+00:00	docker.log	{"log":"\r  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0\r100    18    0     0  100    18      0  11228 --:--:-- --:--:-- --:--:-- 18000\n","stream":"stderr","host_param":"c139c4a70a31"}
+1970-01-01T00:33:42+00:00	docker.log	{"log":"Sending logs to FluentD\n","stream":"stdout","host_param":"c139c4a70a31"}
+1970-01-01T00:33:42+00:00	docker.log	{"log":"  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current\n","stream":"stderr","host_param":"c139c4a70a31"}
+1970-01-01T00:33:42+00:00	docker.log	{"log":"                                 Dload  Upload   Total   Spent    Left  Speed\n","stream":"stderr","host_param":"c139c4a70a31"}
+1970-01-01T00:33:42+00:00	docker.log	{"log":"\r  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0\r100    18    0     0  100    18      0  11385 --:--:-- --:--:-- --:--:-- 18000\n","stream":"stderr","host_param":"c139c4a70a31"}
+1970-01-01T00:33:42+00:00	docker.log	{"log":"Sending logs to FluentD\n","stream":"stdout","host_param":"c139c4a70a31"}
+1970-01-01T00:33:42+00:00	docker.log	{"log":"  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current\n","stream":"stderr","host_param":"c139c4a70a31"}
+1970-01-01T00:33:42+00:00	docker.log	{"log":"                                 Dload  Upload   Total   Spent    Left  Speed\n","stream":"stderr","host_param":"c139c4a70a31"}
+1970-01-01T00:33:42+00:00	docker.log	{"log":"\r  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0\r100    18    0     0  100    18      0   9906 --:--:-- --:--:-- --:--:-- 18000\n","stream":"stderr","host_param":"c139c4a70a31"}
+1970-01-01T00:33:42+00:00	docker.log	{"log":"writing file\n","stream":"stdout","host_param":"c139c4a70a31"}
+1970-01-01T00:33:42+00:00	docker.log	{"log":"Sending logs to FluentD\n","stream":"stdout","host_param":"c139c4a70a31"}
+1970-01-01T00:33:42+00:00	docker.log	{"log":"  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current\n","stream":"stderr","host_param":"c139c4a70a31"}
+1970-01-01T00:33:42+00:00	docker.log	{"log":"                                 Dload  Upload   Total   Spent    Left  Speed\n","stream":"stderr","host_param":"c139c4a70a31"}
+1970-01-01T00:33:42+00:00	docker.log	{"log":"\r  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0\r100    18    0     0  100    18      0  10268 --:--:-- --:--:-- --:--:-- 18000\n","stream":"stderr","host_param":"c139c4a70a31"}

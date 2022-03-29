@@ -1,0 +1,59 @@
+version: '3.6'
+services:
+  # creates a fluentd service with mountpoints
+  fluentd:
+    container_name: fluentd
+    user: root
+    build:
+      context: .
+    image: fluentd
+    ports:
+      - "9880:9880"
+    volumes:
+    # LOCAL_HOST_DIR:CONTAINER_DIR
+    - /var/lib/docker/containers:/fluentd/log/containers # Example: Reading docker logs on
+    - ./file:/fluentd/log/files/ #Example: Reading logs from a file
+    - ./configurations:/fluentd/etc/ #where defualt config file is located
+    # - ./logs:/output/ # Example:Fluentd will collect logs and store it here for demo
+    logging:
+      driver: "local"
+
+  # This app sends logs to Fluentd endpoint via HTTP
+  http-myapp:
+    container_name: http-myapp
+    image: alpine
+    volumes:
+    - ./http:/app
+    command: [ /bin/sh , -c , "apk add --no-cache curl && chmod +x /app/http_app.sh && ./app/http_app.sh"]
+  
+  # write test files to a local volume
+  file-myapp:
+    image: alpine
+    container_name: log-generator
+    # restart: always
+    volumes:
+    - ./file:/app
+    command: [/bin/sh, -c , "chmod +x /app/app.sh && ./app/app.sh"]
+  
+  
+  elasticsearch: # port 9200
+    image: docker.elastic.co/elasticsearch/elasticsearch:7.13.1
+    container_name: elasticsearch
+    environment:
+    - node.name=elasticsearch
+    # - cluster.initial_master_nodes=elasticsearch
+    - bootstrap.memory_lock=true
+    - "ES_JAVA_OPTS=-Xmx256m -Xms256m"
+    - discovery.type=single-node    
+    ulimits:
+      memlock:
+        soft: -1
+        hard: -1
+  kibana:
+    image: docker.elastic.co/kibana/kibana:7.13.1
+    container_name: kibana
+    ports:
+      - "5601:5601"
+    environment:
+      ELASTICSEARCH_URL: http://elasticsearch:9200
+      ELASTICSEARCH_HOSTS: http://elasticsearch:9200
