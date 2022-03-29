@@ -16,3 +16,4 @@ The following are required to deploy this
 * docker build file for custom fluentd container
 
 
+![image](https://user-images.githubusercontent.com/6548443/160686399-4a3e4df4-3770-4559-8228-fb1434f32861.png)
