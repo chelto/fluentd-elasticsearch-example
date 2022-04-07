@@ -3,5 +3,5 @@ while true
 do
 	echo "Sending logs to FluentD"
   curl -X POST -d 'json={"foo":"bar"}' http://fluentd:9880/http-myapp.log
-	sleep 2
+	sleep 10
 done

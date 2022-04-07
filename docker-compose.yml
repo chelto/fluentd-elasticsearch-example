@@ -1,3 +1,4 @@
+# WARNING, INSECURE, only to be used for experimenting
 version: '3.6'
 services:
   # creates a fluentd service with mountpoints
@@ -7,6 +8,7 @@ services:
     build:
       context: .
     image: fluentd
+    restart: always
     ports:
       - "9880:9880"
     volumes:
@@ -22,6 +24,7 @@ services:
   http-myapp:
     container_name: http-myapp
     image: alpine
+    restart: always
     volumes:
     - ./http:/app
     command: [ /bin/sh , -c , "apk add --no-cache curl && chmod +x /app/http_app.sh && ./app/http_app.sh"]
@@ -29,8 +32,8 @@ services:
   # write test files to a local volume
   file-myapp:
     image: alpine
+    restart: always
     container_name: log-generator
-    # restart: always
     volumes:
     - ./file:/app
     command: [/bin/sh, -c , "chmod +x /app/app.sh && ./app/app.sh"]
@@ -38,22 +41,33 @@ services:
   
   elasticsearch: # port 9200
     image: docker.elastic.co/elasticsearch/elasticsearch:7.13.1
+    restart: always
     container_name: elasticsearch
     environment:
     - node.name=elasticsearch
-    # - cluster.initial_master_nodes=elasticsearch
     - bootstrap.memory_lock=true
     - "ES_JAVA_OPTS=-Xmx256m -Xms256m"
-    - discovery.type=single-node    
+    - discovery.type=single-node
+    # - network.host="0.0.0.0"
+    volumes:
+     - esdata:/usr/share/elasticsearch/data
     ulimits:
       memlock:
         soft: -1
         hard: -1
+    ports:
+      - 9200:9200
+      
   kibana:
     image: docker.elastic.co/kibana/kibana:7.13.1
     container_name: kibana
+    restart: always
     ports:
       - "5601:5601"
     environment:
       ELASTICSEARCH_URL: http://elasticsearch:9200
       ELASTICSEARCH_HOSTS: http://elasticsearch:9200
+      SERVER_NAME: kibana
+      # SERVER.HOST: "0.0.0.0"
+volumes:
+  esdata:
